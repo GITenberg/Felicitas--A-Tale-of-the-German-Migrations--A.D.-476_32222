@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31889
     wikipedia: http://en.wikipedia.org/wiki/Felix_Dahn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32222#Felicitas--A-Tale-of-the-German-Migrations--A.D.-476
 gutenberg_issued: '2010-05-02'
 gutenberg_type: Text
 identifiers:
